@@ -17,7 +17,7 @@ A simple and elegant personal profile web page created using **HTML** and **CSS*
 
 ## 🚀 Live Demo
 
-[> If hosted, provide a link here (e.g. GitHub Pages)
+[> My web page link
 ](http://localhost/MyWebPage.php)
 
 ## 🛠 Built With
