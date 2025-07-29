@@ -23,4 +23,3 @@ A simple and elegant personal profile web page created using **HTML** and **CSS*
 ## 🛠 Built With
 - HTML5
 
-## 📚 How to Use
