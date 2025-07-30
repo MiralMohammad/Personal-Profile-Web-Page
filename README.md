@@ -21,5 +21,5 @@ A simple and elegant personal profile web page created using **HTML** and **CSS*
 ](http://localhost/MyWebPage.php)
 
 ## 🛠 Built With
-- HTML5
+- HTML
 
